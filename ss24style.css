@@ -1,0 +1,79 @@
+/* General Styles */
+.product-item-info .product-item-title,
+.product-item-info .product-item-price span,
+.product-item-info .product-item-price span.product-item-origin-price,
+.filter-button > div,
+.base-collapse-item__header .base-collapse-item__title {
+  font-size: 13px;
+  font-weight: 200;
+}
+
+.product-item-info .product-item-price span,
+.product-item-info .product-item-price span.product-item-origin-price {
+  line-height: 1;
+}
+
+.collections-menu-item,
+.--mega-menu-nav-font-size {
+  font-size: 14px;
+  color: #000000;
+}
+
+.collections-menu-item {
+  margin-right: 30px;
+  text-transform: none;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.collection-title {
+  font-size: 35px;
+  text-align: left;
+  width: 100%;
+  padding: 0 48px;
+  font-family: "Roslindale Display Condensed";
+}
+
+@media (max-width: 768px) {
+  .collection-title {
+    text-align: center;
+    padding: 0;
+  }
+}
+
+.collection-info {
+  margin-top: 100px;
+  padding-bottom: 0;
+  align-content: bottom;
+}
+
+.filter-button {
+  background: #fff;
+}
+
+.product-preview-container {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* New rule */
+.product-preview-container .product-preview-row .product-detail-sticky {
+  top: 400px;
+  width: 400px;
+  margin: auto;
+}
+
+.base-collapse-item__header .base-collapse-item__title {
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.center-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+}
