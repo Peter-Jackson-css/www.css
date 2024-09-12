@@ -67,8 +67,11 @@
 }
 
 .base-collapse-item__header .base-collapse-item__title {
-  padding: 10px;
+  padding: 5px;
   text-transform: none;
+  border-bottom: solid;
+    border-bottom-color: #e6e6e6;
+    border-bottom-width: thin;
   
 }
 
