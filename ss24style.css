@@ -65,6 +65,7 @@
 
 .base-collapse-item__header .base-collapse-item__title {
   padding: 10px;
+  text-transform: none;
   
 }
 
