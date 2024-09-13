@@ -90,6 +90,6 @@
 }
 
 .product-crumbs .product-crumbs-image-top .product-crumbs {
-  text-transform: uppercase;
-        letter-spacing: .5px;
+  text-transform: uppercase !important;
+        letter-spacing: .5px !important;
 }
