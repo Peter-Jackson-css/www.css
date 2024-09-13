@@ -89,7 +89,7 @@
   font-size: 20px !important;
 }
 
-.product-crumbs {
+.product-crumbs .product-crumbs-image-top .product-crumbs {
   text-transform: uppercase;
         letter-spacing: .5px;
 }
