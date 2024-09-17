@@ -124,5 +124,5 @@
         align-items: center;
         background: #FEFEFE;
         position: sticky;
-        top: 95px;
+        top: 95px !important;
         z-index: 10;
