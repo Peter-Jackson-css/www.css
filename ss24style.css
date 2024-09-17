@@ -109,3 +109,6 @@
     .collections-menu-item {
         font-size: 12px;
         text-transform: none !important; }
+
+  @media (max-width: 749.98px) {
+    .collections-menu-tabs {top: 95px !important;}
