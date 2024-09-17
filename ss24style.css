@@ -40,7 +40,7 @@
     padding: 0;
   }
 
-  .desc {padding-top: 10px;}
+  .desc {padding-top: 10px !important;}
 }
 
 .collection-info {
