@@ -95,3 +95,5 @@
   text-transform: uppercase !important;
         letter-spacing: .5px !important;
 }
+
+.mce-content-body {padding-top: 10px;}
