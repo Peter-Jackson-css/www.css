@@ -110,5 +110,19 @@
         font-size: 12px;
         text-transform: none !important; }
 
-  @media (max-width: 749.98px) {
-    .collections-menu-tabs {top: 95px !important;}
+@media (max-width: 749.98px) {
+    .collections-menu-tabs {
+        width: calc(100% - 10px);
+        height: 59px;
+        overflow-x: scroll;
+        white-space: nowrap;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+        margin: 0 0 0 10px;
+        border-bottom: 2px #F3F3F3 solid;
+        display: flex;
+        align-items: center;
+        background: #FEFEFE;
+        position: sticky;
+        top: 117px;
+        z-index: 10;
