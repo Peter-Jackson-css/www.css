@@ -105,10 +105,7 @@
 
 .product-price .price .product-origin-price.font_size_small, .product-price .price .product-sales-price.font_size_small {font-size: 13px !important;}
 
-@media (max-width: 749.98px) {
-    .collections-menu-item {
-        font-size: 12px;
-        text-transform: none !important; }
+
 
 @media (max-width: 749.98px) {
     .collections-menu-tabs {
