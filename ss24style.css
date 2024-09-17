@@ -21,7 +21,7 @@
 
 .collections-menu-item {
   margin-right: 30px;
-  text-transform: none;
+  text-transform: none !important;
   font-weight: 400;
   letter-spacing: 0;
 }
