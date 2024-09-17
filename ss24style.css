@@ -15,7 +15,7 @@
 
 .collections-menu-item,
 .--mega-menu-nav-font-size {
-  font-size: 14px;
+  font-size: 14px !important;
   color: #000000;
 }
 
