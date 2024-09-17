@@ -94,6 +94,8 @@
 }
 
 .base-collapse-item__content {margin: 10px !important;
+                              font-size: 13px !important;
+                              line-height: 1;
                             }
 
 .product-title h1 {font-size: 20px !important; }
