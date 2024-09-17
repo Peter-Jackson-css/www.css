@@ -102,3 +102,5 @@
                             }
 
 .product-title h1 {font-size: 20px !important; }
+
+.product-price .price .product-origin-price.font_size_small, .product-price .price .product-sales-price.font_size_small {font-size: 13px !important;]
