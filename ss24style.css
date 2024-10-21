@@ -127,16 +127,3 @@
         top: 90px !important;
         z-index: 10;
 
-
-
-      /* Target the title element of the carousel */
-.advc-title {
-    display: none; /* Hide the original title */
-}
-
-.advc-title::before {
-    content: url(attr(data-image)); /* Use the data-image attribute to get the URL */
-    display: block; /* Make sure the image is displayed */
-    width: 100%; /* Set width as needed */
-    height: auto; /* Maintain aspect ratio */
-}
