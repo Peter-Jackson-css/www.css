@@ -151,3 +151,20 @@
   z-index: 2;
 }
 
+      .advc-body {
+  font-family: PP Neue Montreal !important;
+  letter-spacing: 2pt !important;
+  text-transform: uppercase !important;
+  font-weight: 1000 !important;
+}
+.advc-btn {
+  /* Your existing button styles here */
+  transition: background-color 0.3s ease;
+}
+.advc-btn:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+.advc-btn {
+  font-family: PP Neue Montreal;
+  letter-spacing: 0.8pt;
+}
